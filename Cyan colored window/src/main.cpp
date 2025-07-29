@@ -1,3 +1,7 @@
+// Hrithik Saha
+// 0432310005101071
+// 6B1
+
 #include "glad.h"
 #include "glfw3.h"
 
