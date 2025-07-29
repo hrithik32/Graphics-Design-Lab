@@ -27,7 +27,7 @@ int main()
     glfwWindowHint(GLFW_OPENGL_FORWARD_COMPAT, GL_TRUE);
 #endif
 
-    // Create a window titled "Hrithik Saha"
+    // Create a window titled 
     GLFWwindow* window = glfwCreateWindow(SCR_WIDTH, SCR_HEIGHT, "Hrithik Saha", NULL, NULL);
     if (window == NULL)
     {
