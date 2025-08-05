@@ -1,3 +1,7 @@
+// Hrithik Saha
+// 0432310005101071
+// 6B1
+
 #include "glad.h"
 #include "glfw3.h"
 
@@ -23,7 +27,7 @@ int main()
     glfwWindowHint(GLFW_OPENGL_FORWARD_COMPAT, GL_TRUE);
 #endif
 
-    // Create a window titled "Hrithik Saha"
+    // Create a window title
     GLFWwindow* window = glfwCreateWindow(SCR_WIDTH, SCR_HEIGHT, "Hrithik Saha", NULL, NULL);
     if (window == NULL)
     {
